@@ -1,0 +1,16 @@
+/* CSS dosyanızın uygun bölümü */
+@media (max-width: 768px) {
+  .md\:min-w-\[450px\] {
+      min-width: 100%; /* Küçük ekranlarda tam genişlik */
+  }
+
+  .text-3xl.md\:text-6xl {
+      font-size: 24px; /* Küçük ekranlarda metin boyutunu azalt */
+  }
+}
+
+@media (min-width: 768px) {
+  .flex {
+      justify-content: center; /* Masaüstü ekranlarda içeriği ortala */
+  }
+}
