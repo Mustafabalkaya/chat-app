@@ -33,5 +33,5 @@ npm start
 ```
 ### DEMO
 
-[https://chat-app-mern-4ns8.onrender.com](https://chat-app-mern-4ns8.onrender.com)
+[https://chat-app-mern-4ns8.onrender.com](https://chat-app-xpgp.onrender.com)
 
